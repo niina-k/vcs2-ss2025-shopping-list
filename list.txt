@@ -10,3 +10,5 @@ tomaten
 gurke
 paprika
 erdbeeren
+salat
+
