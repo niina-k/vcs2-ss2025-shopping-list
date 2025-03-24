@@ -11,3 +11,4 @@ gurke
 paprika
 salat
 kaekse
+schokokaekse
