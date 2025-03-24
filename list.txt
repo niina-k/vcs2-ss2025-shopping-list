@@ -9,6 +9,5 @@ kaese
 tomaten
 gurke
 paprika
-erdbeeren
 salat
 
